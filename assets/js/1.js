@@ -161,3 +161,4 @@ function CalculatingWeather(){
     }
 }
 CalculatingWeather(havaDerecesi);
+
